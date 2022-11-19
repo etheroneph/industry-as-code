@@ -136,6 +136,7 @@ return {
                 "Basic Electric Engine s", "Uncommon Combustion Chamber l", "Uncommon Ionic Chamber m",
 		"Rare Standard Frame l", "Advanced Combustion Chamber xs", "Advanced Reinforced Frame xs",
 		"Advanced Gas Cylinder s", "Advanced Standard Frame l", "Exotic Standard Frame l",
+		"Uncommon Reinforced Frame s",
             },
         },
         {
