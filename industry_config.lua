@@ -4,7 +4,17 @@ return {
     { item = "Warp Cell", quantity = 100 },
 
     { item = "Glossy gray carbon fiber", quantity = 720 },
+
+    { item = "Luminescent Dim Glass", quantity = 1 },
+    { item = "Luminescent Faint Glass", quantity = 1 },
+    { item = "Luminescent Icy Blue Glass", quantity = 1 },
+    { item = "Luminescent Lime Glass", quantity = 1 },
     { item = "Luminescent Magenta Glass", quantity = 1 },
+    { item = "Luminescent Orange Glass", quantity = 1 },
+    { item = "Luminescent Red Glass", quantity = 1 },
+    { item = "Luminescent White Glass", quantity = 1 },
+    { item = "Luminescent Yellow Glass", quantity = 1 },
+    { item = "Luminescent Cyan Glass", quantity = 1 },
 
     { item = "Anti-Gravity Pulsor m", quantity = 6 },
     { item = "Anti-Gravity Generator s", quantity = 1 },
