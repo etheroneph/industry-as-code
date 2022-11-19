@@ -203,6 +203,10 @@ return {
 		"Compact Aileron s", "Aileron s", "Wing s", "Stabilizer s", "Sliding Door s", "Space Radar s",
 		"Surrogate VR Station m", "Basic Vertical Booster m", "Basic Hover Engine m",
 		"Advanced Military Hover Engine s", "Command seat controller s",
+		"Canopy Windshield corner s", "Canopy Windshield flat s", "Canopy Windshield tilted s",
+		"Canopy Windshield triangle s",
+		"Canopy Metal corner s", "Canopy Metal flat s", "Canopy Metal tilted s",
+		"Canopy Metal triangle s"
             },
         },
         {
@@ -220,7 +224,12 @@ return {
 		"Compact Aileron m", "Aileron m", "Wing m", "Stabilizer m", "Wing variant m",
                 "Uncommon Maneuver Space Engine m", "Basic Metalwork Industry m", "Advanced Honeycomb Refinery m",
 		"Basic Hover Engine l", "Basic Flat Hover Engine l", "Uncommon Military Space Engine m",
-		"Advanced Safe Space Engine m", "Basic Vertical Booster l"
+		"Advanced Safe Space Engine m", "Basic Vertical Booster l",
+		"Canopy Windshield corner m", "Canopy Windshield flat m", "Canopy Windshield tilted m",
+		"Canopy Windshield triangle m",
+		"Canopy Metal corner m", "Canopy Metal flat m", "Canopy Metal tilted m",
+		"Canopy Metal triangle m"
+
             },
         },
         {
@@ -234,7 +243,11 @@ return {
 		"Basic Space Engine l", "Stabilizer l", "Warp Drive l",
                 "Uncommon Maneuver Atmospheric Engine l", "Uncommon Military Atmospheric Engine l",
 		"Advanced Mining Unit l", "Rare Mining Unit l", "Space Mining Unit l", "Exotic Mining Unit l",
-		"Advanced Freight Space Engine l"
+		"Advanced Freight Space Engine l",
+		"Canopy Windshield corner l", "Canopy Windshield flat l", "Canopy Windshield tilted l",
+		"Canopy Windshield triangle l",
+		"Canopy Metal corner l", "Canopy Metal flat l", "Canopy Metal tilted l",
+		"Canopy Metal triangle l"
             },
         },
         {

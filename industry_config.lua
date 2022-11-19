@@ -88,7 +88,12 @@ return {
     { item = "Vertical Light s", quantity = 9 },
     { item = "Uncommon Military Atmospheric Engine l", quantity = 2 },
     { item = "Uncommon Military Space Engine m", quantity = 4 },
-    
+
+    { item = "Canopy Windshield corner s", quantity = 2 },
+    { item = "Canopy Windshield flat s", quantity = 2 },
+    { item = "Canopy Windshield tilted s", quantity = 2 },
+    { item = "Canopy Windshield triangle s", quantity = 2 },
+
     { item = "Advanced Military Atmospheric Engine xs", quantity = 2 },
     { item = "Advanced Military Hover Engine s", quantity = 1 },
 
