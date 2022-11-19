@@ -474,7 +474,11 @@ handlers:
 
     function ingredientQuantity(item, ingredient)
         local quantity = ingredient.quantity
-        if item.type == "worldMaterial" and item.tier == 1 then
+        local isLumi = item.name:lower():match("luminescent")
+
+        if item.type == "worldMaterial" and item.tier == 1 and isLumi then
+            quantity = ingredient.quantity * 6
+        elseif item.type == "worldMaterial" and item.tier == 1 and not isLumi then
             quantity = ingredient.quantity * 18
         elseif item.type == "worldMaterial" and item.tier == 2 then
             quantity = ingredient.quantity * 6
@@ -525,7 +529,6 @@ handlers:
         end
 
         unitItems[id].lastCheck = currentTime
-        system.print("unit: " .. unit.getName() .. " status: " .. status)
 
         if currentTime - unitItems[id].transitionTime > 60 and status ~= STARTED and unitItems[id].needsStop ~= true then
             system.print("unit: " .. unit.getName() .. " in exceptional state, force stop")
@@ -669,7 +672,11 @@ handlers:
 
         -- recipes for honeycomb show nanocrafter requirements
         local quantity = recipe[1].products[1].quantity
-        if item.type == "worldMaterial" and item.tier == 1 then
+        local isLumi = item.displayNameWithSize:lower():match("luminescent")
+        
+        if item.type == "worldMaterial" and item.tier == 1 and isLumi then
+            quantity = quantity * 6
+        elseif item.type == "worldMaterial" and item.tier == 1 and not isLumi then
             quantity = quantity * 18
         elseif item.type == "worldMaterial" and item.tier == 2 then
             quantity = quantity * 6
