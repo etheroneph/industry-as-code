@@ -4,7 +4,7 @@ return {
     { item = "Warp Cell", quantity = 100 },
 
     { item = "Glossy gray carbon fiber", quantity = 720 },
-    { item = "Luminescent Lime Glass", quantity = 1 },
+    { item = "Luminescent Magenta Glass", quantity = 1 },
 
     { item = "Anti-Gravity Pulsor m", quantity = 6 },
     { item = "Anti-Gravity Generator s", quantity = 1 },
