@@ -46,7 +46,7 @@ return {
             unit  = "Chemical Industry m",
 	    stage = "Fuel",
             items = {
-                "Nitron Fuel",
+                "Nitron Fuel", "Xeron Fuel",
                 "Kergon-X1 fuel", "Kergon-X2 fuel", "Kergon-X3 fuel", "Kergon-X4 fuel",
             },
         },

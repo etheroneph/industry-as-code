@@ -1,5 +1,6 @@
 return {
     { item = "Nitron Fuel", quantity = 10000 },
+    { item = "Kergon-X2 Fuel", quantity = 10000 },
     { item = "Silicon Scrap", quantity = 1000 },
     { item = "Warp Cell", quantity = 100 },
 
