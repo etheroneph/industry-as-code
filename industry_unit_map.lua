@@ -71,7 +71,7 @@ return {
 		"Uncommon Antenna s", "Rare Power Transformer l", "Advanced Antenna s",
 		"Advanced Control System s", "Basic Mechanical Sensor xs", "Rare Core System l",
 		"Advanced Ore Scanner l", "Rare Ore Scanner l", "Exotic Ore Scanner l",
-		"Basic Control System s",
+		"Basic Control System s", "Advanced Core System m",
             },
         },
         {
@@ -136,7 +136,7 @@ return {
                 "Basic Electric Engine s", "Uncommon Combustion Chamber l", "Uncommon Ionic Chamber m",
 		"Rare Standard Frame l", "Advanced Combustion Chamber xs", "Advanced Reinforced Frame xs",
 		"Advanced Gas Cylinder s", "Advanced Standard Frame l", "Exotic Standard Frame l",
-		"Uncommon Reinforced Frame s",
+		"Uncommon Reinforced Frame s", "Advanced Standard Frame m", "Rare Standard Frame m",
             },
         },
         {
