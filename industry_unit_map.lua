@@ -207,7 +207,7 @@ return {
 		"Canopy Windshield corner s", "Canopy Windshield flat s", "Canopy Windshield tilted s",
 		"Canopy Windshield triangle s",
 		"Canopy Metal corner s", "Canopy Metal flat s", "Canopy Metal tilted s",
-		"Canopy Metal triangle s"
+		"Canopy Metal triangle s", "Resurrection Node s",
             },
         },
         {
