@@ -71,7 +71,8 @@ return {
 		"Uncommon Antenna s", "Rare Power Transformer l", "Advanced Antenna s",
 		"Advanced Control System s", "Basic Mechanical Sensor xs", "Rare Core System l",
 		"Advanced Ore Scanner l", "Rare Ore Scanner l", "Exotic Ore Scanner l",
-		"Basic Control System s", "Advanced Core System m",
+		"Basic Control System s", "Advanced Core System m", "Uncommon Antenna m",
+		"Uncommon Antenna l",
             },
         },
         {
@@ -229,7 +230,7 @@ return {
 		"Canopy Windshield corner m", "Canopy Windshield flat m", "Canopy Windshield tilted m",
 		"Canopy Windshield triangle m",
 		"Canopy Metal corner m", "Canopy Metal flat m", "Canopy Metal tilted m",
-		"Canopy Metal triangle m"
+		"Canopy Metal triangle m", "Atmospheric Radar m", "Space Radar m",
 
             },
         },
@@ -248,7 +249,7 @@ return {
 		"Canopy Windshield corner l", "Canopy Windshield flat l", "Canopy Windshield tilted l",
 		"Canopy Windshield triangle l",
 		"Canopy Metal corner l", "Canopy Metal flat l", "Canopy Metal tilted l",
-		"Canopy Metal triangle l"
+		"Canopy Metal triangle l", "Atmospheric Radar l", "Space Radar l",
             },
         },
         {
