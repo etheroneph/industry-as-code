@@ -212,6 +212,7 @@ return {
 		"Canopy Windshield triangle s",
 		"Canopy Metal corner s", "Canopy Metal flat s", "Canopy Metal tilted s",
 		"Canopy Metal triangle s", "Resurrection Node s", "Railgun s", "Railgun Antimatter Ammo s",
+		"Hatch s",
             },
         },
         {

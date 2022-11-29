@@ -101,6 +101,7 @@ return {
     { item = "Screen m", quantity = 1 },
     { item = "Screen s", quantity = 1 },
     { item = "Sink unit", quantity = 1 },
+    { item = "Hatch s", quantity = 2 },
     { item = "Interior door s", quantity = 2 },
     { item = "Sliding Door s", quantity = 2 },
     { item = "Sliding Door m", quantity = 2 },
