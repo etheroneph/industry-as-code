@@ -5,6 +5,7 @@ return {
     { item = "Warp Cell", quantity = 100 },
 
     { item = "Glossy gray carbon fiber", quantity = 720 },
+    { item = "Black pattern carbon fiber", quantity = 10000 },
 
     { item = "Luminescent Dim Glass", quantity = 1 },
     { item = "Luminescent Faint Glass", quantity = 1 },
@@ -20,6 +21,11 @@ return {
     { item = "Anti-Gravity Pulsor m", quantity = 6 },
     { item = "Anti-Gravity Generator s", quantity = 1 },
 
+    { item = "Uncommon Gravity-Inverted Container m", quantity = 1 },
+    { item = "Advanced Gravity-Inverted Container m", quantity = 1 },
+    { item = "Warp Drive l", quantity = 1 },
+
+    { item = "Repair Unit xl", quantity = 2 },
     { item = "Transfer Unit l", quantity = 2 },
     { item = "Basic Container s", quantity = 2 },
     { item = "Basic Container m", quantity = 2 },
@@ -53,15 +59,21 @@ return {
     { item = "Static Core Unit l", quantity = 1 },
     { item = "Static Core Unit xs", quantity = 1 },
 
+    { item = "Railgun s", quantity = 4 },
+    { item = "Railgun Electromagnetic Ammo xs", quantity = 200 },
+
     { item = "Basic Mining Unit l", quantity = 4 },
     { item = "Uncommon Mining Unit l", quantity = 1 },
     { item = "Advanced Mining Unit l", quantity = 1 },
     { item = "Rare Mining Unit l", quantity = 1 },
 
+    { item = "Fuel Intake xs", quantity = 10 },
     { item = "Programming board xs", quantity = 10 },
     { item = "Territory Scanner xl", quantity = 1 },
     { item = "Deep Space Asteroid Tracker xl", quantity = 1 },
+    { item = "Dynamic Core Unit xs", quantity = 1 },
     { item = "Dynamic Core Unit s", quantity = 1 },
+    { item = "Basic Space Engine s", quantity = 5 },
     { item = "Basic Space Engine m", quantity = 5 },
     { item = "Basic Atmospheric Engine m", quantity = 2 },
     { item = "Basic Atmospheric Engine s", quantity = 5 },
@@ -90,6 +102,11 @@ return {
     { item = "Screen s", quantity = 1 },
     { item = "Sink unit", quantity = 1 },
     { item = "Sliding Door s", quantity = 2 },
+    { item = "Sliding Door m", quantity = 2 },
+    { item = "Reinforced Sliding Door s", quantity = 2 },
+    { item = "Airlock s", quantity = 2 },
+    { item = "Force Field xs", quantity = 2 },
+    { item = "Force Field s", quantity = 2 },
     { item = "Space Radar s", quantity = 2 },
     { item = "Space Radar m", quantity = 2 },
     { item = "Surrogate VR Station m", quantity = 1 },

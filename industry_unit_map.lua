@@ -69,7 +69,7 @@ return {
                 "Uncommon Ore Scanner l", "Basic Ore Scanner l", "Uncommon Light xs", "Uncommon Light s",
 		"Advanced Mechanical Sensor xs", "Basic Antenna xl", "Uncommon Ore Scanner xl",
 		"Uncommon Antenna s", "Rare Power Transformer l", "Advanced Antenna s",
-		"Advanced Control System s", "Basic Mechanical Sensor xs", "Rare Core System l",
+		"Basic Mechanical Sensor xs", "Rare Core System l",
 		"Advanced Ore Scanner l", "Rare Ore Scanner l", "Exotic Ore Scanner l",
 		"Basic Control System s", "Advanced Core System m", "Uncommon Antenna m",
 		"Uncommon Antenna l",
@@ -138,6 +138,8 @@ return {
 		"Rare Standard Frame l", "Advanced Combustion Chamber xs", "Advanced Reinforced Frame xs",
 		"Advanced Gas Cylinder s", "Advanced Standard Frame l", "Exotic Standard Frame l",
 		"Uncommon Reinforced Frame s", "Advanced Standard Frame m", "Rare Standard Frame m",
+		"Advanced Magnetic Rail xs", "Advanced Magnetic Rail s", "Advanced Magnetic Rail m",
+		"Advanced Magnetic Rail l", "Advanced Mobile Panel xs", "Basic Electric Engine m",
             },
         },
         {
@@ -192,6 +194,7 @@ return {
 		"Full Shelf s", "Sink unit", "Toilet unit A s", "Vertical Light s",
 		"Transparent Screen xs", "Transparent Screen s", "Transparent Screen m", "Transparent Screen l",
 		"Gyroscope xs", "Sign xs", "Basic Hover Engine s", "Container Hub xs", "Advanced Military Atmospheric Engine xs",
+		"Fuel Intake xs", "Force Field xs", "Force Field s", "Force Field m", "Force Field l"
             },
         },
         {
@@ -208,7 +211,7 @@ return {
 		"Canopy Windshield corner s", "Canopy Windshield flat s", "Canopy Windshield tilted s",
 		"Canopy Windshield triangle s",
 		"Canopy Metal corner s", "Canopy Metal flat s", "Canopy Metal tilted s",
-		"Canopy Metal triangle s", "Resurrection Node s",
+		"Canopy Metal triangle s", "Resurrection Node s", "Railgun s", "Railgun Antimatter Ammo s",
             },
         },
         {
@@ -231,6 +234,8 @@ return {
 		"Canopy Windshield triangle m",
 		"Canopy Metal corner m", "Canopy Metal flat m", "Canopy Metal tilted m",
 		"Canopy Metal triangle m", "Atmospheric Radar m", "Space Radar m",
+		"Uncommon Gravity-Inverted Container m", "Advanced Gravity-Inverted Container m",
+		"Airlock s", "Reinforced Sliding Door s", "Sliding Door m",
 
             },
         },
