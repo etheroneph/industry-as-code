@@ -235,8 +235,7 @@ return {
 		"Canopy Metal corner m", "Canopy Metal flat m", "Canopy Metal tilted m",
 		"Canopy Metal triangle m", "Atmospheric Radar m", "Space Radar m",
 		"Uncommon Gravity-Inverted Container m", "Advanced Gravity-Inverted Container m",
-		"Airlock s", "Reinforced Sliding Door s", "Sliding Door m",
-
+		"Airlock s", "Reinforced Sliding Door s", "Sliding Door m", "Interior door s"
             },
         },
         {
