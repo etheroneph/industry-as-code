@@ -72,7 +72,7 @@ return {
 		"Basic Mechanical Sensor xs", "Rare Core System l",
 		"Advanced Ore Scanner l", "Rare Ore Scanner l", "Exotic Ore Scanner l",
 		"Basic Control System s", "Advanced Core System m", "Uncommon Antenna m",
-		"Uncommon Antenna l",
+		"Uncommon Antenna l", "Uncommon Power Transformer s"
             },
         },
         {
@@ -140,6 +140,7 @@ return {
 		"Uncommon Reinforced Frame s", "Advanced Standard Frame m", "Rare Standard Frame m",
 		"Advanced Magnetic Rail xs", "Advanced Magnetic Rail s", "Advanced Magnetic Rail m",
 		"Advanced Magnetic Rail l", "Advanced Mobile Panel xs", "Basic Electric Engine m",
+		"Uncommon Ionic Chamber xl", "Advanced Ionic Chamber xl", "Advanced Reinforced Frame xl",
             },
         },
         {
@@ -236,7 +237,8 @@ return {
 		"Canopy Metal corner m", "Canopy Metal flat m", "Canopy Metal tilted m",
 		"Canopy Metal triangle m", "Atmospheric Radar m", "Space Radar m",
 		"Uncommon Gravity-Inverted Container m", "Advanced Gravity-Inverted Container m",
-		"Airlock s", "Reinforced Sliding Door s", "Sliding Door m", "Interior door s"
+		"Airlock s", "Reinforced Sliding Door s", "Sliding Door m", "Interior door s",
+		"Landing Gear m",
             },
         },
         {
@@ -261,6 +263,8 @@ return {
             unit  = "Assembly Line xl",
             items = {
                 "Deep Space Asteroid Tracker xl", "Territory Scanner xl", "Basic Space Engine xl",
+		"Uncommon Maneuver Space Engine xl", "Advanced Maneuver Space Engine xl",
+		"Uncommon Freight Space Engine xl", "Advanced Freight Space Engine xl",
             },
         },
         {
@@ -309,7 +313,7 @@ return {
                 "Brick pattern 1", "Aged pattern brick 1",
 		"Matte white concrete", "Polished gray aluminium", "Aged Sulfur", "Glossy Cobalt", "Glossy Gold",
 		"Matte red plastic", "White pattern carbon fiber", "Glossy Sodium", "Glossy black carbon fiber",
-		"Glossy gray carbon fiber",
+		"Glossy gray carbon fiber", "Matte Silicon"
             },
         },
     },
