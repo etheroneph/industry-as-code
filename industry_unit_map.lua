@@ -195,7 +195,8 @@ return {
 		"Full Shelf s", "Sink unit", "Toilet unit A s", "Vertical Light s",
 		"Transparent Screen xs", "Transparent Screen s", "Transparent Screen m", "Transparent Screen l",
 		"Gyroscope xs", "Sign xs", "Basic Hover Engine s", "Container Hub xs", "Advanced Military Atmospheric Engine xs",
-		"Fuel Intake xs", "Force Field xs", "Force Field s", "Force Field m", "Force Field l"
+		"Fuel Intake xs", "Force Field xs", "Force Field s", "Force Field m", "Force Field l",
+		"Encampment Chair s"
             },
         },
         {
@@ -238,7 +239,7 @@ return {
 		"Canopy Metal triangle m", "Atmospheric Radar m", "Space Radar m",
 		"Uncommon Gravity-Inverted Container m", "Advanced Gravity-Inverted Container m",
 		"Airlock s", "Reinforced Sliding Door s", "Sliding Door m", "Interior door s",
-		"Landing Gear m",
+		"Landing Gear m", "Territory Unit m",
             },
         },
         {
@@ -257,6 +258,7 @@ return {
 		"Canopy Windshield triangle l",
 		"Canopy Metal corner l", "Canopy Metal flat l", "Canopy Metal tilted l",
 		"Canopy Metal triangle l", "Atmospheric Radar l", "Space Radar l",
+		"Advanced Gravity-Inverted Container l",
             },
         },
         {

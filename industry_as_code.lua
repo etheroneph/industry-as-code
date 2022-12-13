@@ -839,7 +839,12 @@ handlers:
                 
                                 local itemId = tostring(item.item)
 
-                                if dependencies[itemId] and system_getItem(itemId).tier <= tier+1 then
+                                local itemTier = system_getItem(itemId).tier
+                                if item.itemName:lower():match("territory unit") then
+                                    itemTier = 3
+                                end
+
+                                if dependencies[itemId] and itemTier <= tier+1 then
                                     item.maintain = dependencies[itemId]
                                     system.print("Loaded recipe: " .. item.itemName .. " maintain: " .. item.maintain)
                                     table.insert(unitItems[unitId].items, {

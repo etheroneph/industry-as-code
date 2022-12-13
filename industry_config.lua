@@ -24,6 +24,7 @@ return {
 
     { item = "Uncommon Gravity-Inverted Container m", quantity = 1 },
     { item = "Advanced Gravity-Inverted Container m", quantity = 1 },
+    { item = "Advanced Gravity-Inverted Container l", quantity = 1 },
     { item = "Warp Drive l", quantity = 1 },
 
     { item = "Repair Unit xl", quantity = 2 },
@@ -74,7 +75,8 @@ return {
 
     { item = "Fuel Intake xs", quantity = 10 },
     { item = "Programming board xs", quantity = 10 },
-    { item = "Territory Scanner xl", quantity = 1 },
+    { item = "Territory Scanner xl", quantity = 5 },
+    { item = "Territory Unit m", quantity = 10 },
     { item = "Deep Space Asteroid Tracker xl", quantity = 1 },
     { item = "Dynamic Core Unit xs", quantity = 1 },
     { item = "Dynamic Core Unit s", quantity = 1 },
@@ -87,6 +89,7 @@ return {
     { item = "Space Fuel Tank m", quantity = 1 },
     { item = "Emergency controller xs", quantity = 1 },
     { item = "Gyroscope xs", quantity = 1 },
+    { item = "Encampment Chair s", quantity = 1 },
     { item = "Adjustor m", quantity = 15 },
     { item = "Landing Gear m", quantity = 3 },
     { item = "Atmospheric Fuel Tank m", quantity = 1 },
@@ -133,7 +136,7 @@ return {
     { item = "Canopy Windshield flat s", quantity = 2 },
     { item = "Canopy Windshield tilted s", quantity = 2 },
     { item = "Canopy Windshield triangle s", quantity = 2 },
-    { item = "Glass Panel l", quantity = 100 },
+    { item = "Glass Panel l", quantity = 400 },
 
     { item = "Advanced Military Atmospheric Engine xs", quantity = 2 },
     { item = "Advanced Military Hover Engine s", quantity = 1 },
