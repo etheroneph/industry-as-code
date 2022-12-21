@@ -1,12 +1,15 @@
 return {
-    { item = "Nitron Fuel", quantity = 10000 },
+    { item = "Kergon-X5 fuel", quantity = 20000 },
+    { item = "Nitron Fuel", quantity = 20000 },
     { item = "Silicon Scrap", quantity = 1000 },
     { item = "Warp Cell", quantity = 100 },
 
 --    { item = "Glossy gray carbon fiber", quantity = 720 },
     { item = "Black pattern carbon fiber", quantity = 10000 },
+    { item = "Matte Carbon", quantity = 10000 },
     { item = "Matte Silicon", quantity = 10000 },
     { item = "White Silicon Panel", quantity = 5000 },
+    { item = "White Carbon Panel", quantity = 5000 },
 
     --{ item = "Luminescent Dim Glass", quantity = 1 },
     --{ item = "Luminescent Faint Glass", quantity = 1 },
@@ -30,7 +33,7 @@ return {
     { item = "Repair Unit xl", quantity = 2 },
     { item = "Transfer Unit l", quantity = 2 },
     { item = "Basic Container s", quantity = 2 },
-    { item = "Basic Container m", quantity = 2 },
+    { item = "Basic Container m", quantity = 10 },
 
     { item = "Wing m", quantity = 10 },
     { item = "Aileron m", quantity = 10 },
@@ -51,6 +54,9 @@ return {
     { item = "Retro-rocket Brake l", quantity = 50 },
     { item = "Basic Vertical Booster l", quantity = 10 },
     { item = "Basic Flat Hover Engine l", quantity = 10 },
+    { item = "Basic Space Engine xs", quantity = 5 },
+    { item = "Basic Space Engine s", quantity = 5 },
+    { item = "Basic Space Engine m", quantity = 5 },
     { item = "Basic Space Engine l", quantity = 10 },
     { item = "Basic Space Engine xl", quantity = 10 },
     { item = "Uncommon Maneuver Space Engine xl", quantity = 2 },
@@ -63,13 +69,14 @@ return {
     { item = "Dynamic Core Unit m", quantity = 1 },
     { item = "Dynamic Core Unit l", quantity = 1 },
     { item = "Static Core Unit l", quantity = 10 },
+    { item = "Static Core Unit s", quantity = 10 },
     { item = "Static Core Unit xs", quantity = 1 },
 
     { item = "Railgun s", quantity = 4 },
     { item = "Railgun Electromagnetic Ammo xs", quantity = 200 },
 
     { item = "Basic Mining Unit l", quantity = 4 },
-    { item = "Uncommon Mining Unit l", quantity = 1 },
+    { item = "Uncommon Mining Unit l", quantity = 10 },
     { item = "Advanced Mining Unit l", quantity = 1 },
     { item = "Rare Mining Unit l", quantity = 1 },
 
@@ -80,8 +87,6 @@ return {
     { item = "Deep Space Asteroid Tracker xl", quantity = 1 },
     { item = "Dynamic Core Unit xs", quantity = 1 },
     { item = "Dynamic Core Unit s", quantity = 1 },
-    { item = "Basic Space Engine s", quantity = 5 },
-    { item = "Basic Space Engine m", quantity = 5 },
     { item = "Basic Atmospheric Engine m", quantity = 2 },
     { item = "Basic Atmospheric Engine s", quantity = 5 },
     { item = "Atmospheric Airbrake m", quantity = 5 },

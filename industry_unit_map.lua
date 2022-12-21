@@ -48,6 +48,7 @@ return {
             items = {
                 "Nitron Fuel", "Xeron Fuel",
                 "Kergon-X1 fuel", "Kergon-X2 fuel", "Kergon-X3 fuel", "Kergon-X4 fuel",
+		"Kergon-X5 fuel"
             },
         },
 
@@ -72,7 +73,7 @@ return {
 		"Basic Mechanical Sensor xs", "Rare Core System l",
 		"Advanced Ore Scanner l", "Rare Ore Scanner l", "Exotic Ore Scanner l",
 		"Basic Control System s", "Advanced Core System m", "Uncommon Antenna m",
-		"Uncommon Antenna l", "Uncommon Power Transformer s"
+		"Uncommon Antenna l", "Uncommon Power Transformer s", "Basic Core System s",
             },
         },
         {
@@ -258,7 +259,7 @@ return {
 		"Canopy Windshield triangle l",
 		"Canopy Metal corner l", "Canopy Metal flat l", "Canopy Metal tilted l",
 		"Canopy Metal triangle l", "Atmospheric Radar l", "Space Radar l",
-		"Advanced Gravity-Inverted Container l",
+		"Advanced Gravity-Inverted Container l", "Repair Unit xl"
             },
         },
         {
@@ -315,7 +316,7 @@ return {
                 "Brick pattern 1", "Aged pattern brick 1",
 		"Matte white concrete", "Polished gray aluminium", "Aged Sulfur", "Glossy Cobalt", "Glossy Gold",
 		"Matte red plastic", "White pattern carbon fiber", "Glossy Sodium", "Glossy black carbon fiber",
-		"Glossy gray carbon fiber", "Matte Silicon"
+		"Glossy gray carbon fiber", "Matte Silicon", "Matte Carbon", "White Carbon Panel",
             },
         },
     },
