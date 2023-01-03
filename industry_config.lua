@@ -95,7 +95,7 @@ return {
     { item = "Emergency controller xs", quantity = 1 },
     { item = "Gyroscope xs", quantity = 1 },
     { item = "Encampment Chair s", quantity = 1 },
-    { item = "Adjustor m", quantity = 15 },
+    { item = "Adjustor m", quantity = 50 },
     { item = "Landing Gear m", quantity = 3 },
     { item = "Atmospheric Fuel Tank m", quantity = 1 },
     { item = "Atmospheric Radar s", quantity = 3 },
